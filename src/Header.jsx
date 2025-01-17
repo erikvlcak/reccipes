@@ -1,5 +1,5 @@
 export default function Header() {
   return (
-    <div>Simple Meals 4 You</div>
+    <h1>Simple Meals 4 You</h1>
   )
 }

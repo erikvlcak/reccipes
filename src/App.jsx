@@ -1,13 +1,13 @@
 import Header from "./Header";
 import SearchBar from "./SearchBar";
-import MealOfDay from "./MealOfDay";
+import RandomMeal from "./RandomMeal";
 
 export default function App() {
   return (
     <>
       <Header />
       <SearchBar />
-      <MealOfDay />
+      <RandomMeal/>
     </>
   );
 }
